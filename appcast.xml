@@ -4,15 +4,15 @@
     <channel>
         <title>Minuscule</title>
         <item>
-            <title>Minuscule 1.23.0</title>
-            <pubDate>Fri, 20 Nov 2026 22:04:45 +0000</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+            <title>Minuscule 1.23.1</title>
+            <pubDate>Fri, 20 Nov 2026 22:22:37 +0000</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.23.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             
-            <enclosure url="https://github.com/Kazachek/minuscule-releases/releases/download/v1.23.0/Minuscule.dmg"
+            <enclosure url="https://github.com/Kazachek/minuscule-releases/releases/download/v1.23.1/Minuscule.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="A5w+Bxns7eK3RrOFwL9FCVqXS8CUzw5hbVqpBItdyMkam6UWGiETgzysu/DU99R9LeEFOff/acARidEPaJg7Dw==" length="2811700" />
+                       sparkle:edSignature="mTCZJcZS/+OxbfusJ4l0Lvr3XFNvHp736hA4bNVhG0YdH+03jb8cEuvDYdMDiLtDuoGR0wgiRLnRtkqjSt6UAQ==" length="2812500" />
         </item>
     </channel>
 </rss>
